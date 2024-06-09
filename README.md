@@ -11,5 +11,6 @@ A little repository of my learning process about encryption and hashing with sim
 ## Hashing
 
 - Understanding the basic concept of hashing
-- Example
+- Example (using `hashlib` library) -> `hashing-1.py`
 - Understanding the difference between encryption and hashing
+- Example (using `hashlib` library) -> `hashing-2.py`
